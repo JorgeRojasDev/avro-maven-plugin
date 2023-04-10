@@ -1,0 +1,11 @@
+{
+  "type": "record",
+  "namespace": "building",
+  "name": "School",
+  "fields": [
+    {
+      "name": "name",
+      "type": "string"
+    }
+  ]
+}

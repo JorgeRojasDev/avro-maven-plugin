@@ -6,7 +6,7 @@
 
     <groupId>io.github.jorgerojasdev</groupId>
     <artifactId>avro-maven-plugin</artifactId>
-    <version>1.0</version>
+    <version>1.0.0</version>
     <packaging>maven-plugin</packaging>
 
     <name>AutoImports Avro Maven Plugin</name>

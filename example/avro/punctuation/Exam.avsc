@@ -1,0 +1,15 @@
+{
+  "type": "record",
+  "namespace": "punctuation",
+  "name": "Exam",
+  "fields": [
+    {
+      "name": "note",
+      "type": "double"
+    },
+    {
+      "name": "student",
+      "type": "people.Student"
+    }
+  ]
+}

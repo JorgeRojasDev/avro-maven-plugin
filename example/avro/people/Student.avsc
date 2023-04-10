@@ -1,0 +1,15 @@
+{
+  "type": "record",
+  "namespace": "people",
+  "name": "Student",
+  "fields": [
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "school",
+      "type": "building.School"
+    }
+  ]
+}
